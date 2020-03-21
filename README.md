@@ -8,7 +8,7 @@ The objective of creating this application is to learn following skills:
 4. Changing database schema in the middle of creating applications and let migrations(**Flask-migrate**) do the part of updating schema.
 5. Sending data to template and rendering the data.(**HTML, CSS, javascript**)
 6. Using jinja template to inject python in HTML.(**jinja**)
-7. Taking user input from forms and updating data asyncronuously using **fetch** library.
+7. Taking user input from forms and updating data asyncronuously using **fetch** API.
 
 ### API endpoints
 This application serves following endpoints:
